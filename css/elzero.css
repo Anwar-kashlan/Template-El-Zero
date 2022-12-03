@@ -1249,7 +1249,8 @@ gap: 40px;
     position: relative;
     width: fit-content;
     margin: 0 auto 50px;
-    font-size: 20px;
+    font-size: 40px;
+    font-weight: bold;
 }
 .stats .contenar {
     display: grid;
